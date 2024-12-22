@@ -14,7 +14,9 @@ Po sklonowaniu repozytorium, należy stworzyć plik **.env**, który musi zawier
 ---
 
 USERNAME = 
+
 APIKEY = 
+
 NOTIFICATION_API_KEY = 
 
 ---
